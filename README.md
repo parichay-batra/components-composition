@@ -65,3 +65,14 @@
 - Cancel Order action
 
 
+## G. cart (Almost similar to placeorder)
+- Shipping address section
+- Coupon Code section and rules around it
+- Cart Items section
+- Delivery Strip and rules around it
+- Price Details section
+- Coins earned strip and rules around it
+- Add delete quantity button group
+
+#### Incase no item present,
+-Empty Cart Section
