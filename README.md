@@ -46,3 +46,16 @@
 ### Redirections from this page:
 0. Buy again
 1. Go to My Orders
+
+## E. orderlist
+- Switch user(Only for mylo members)
+- Orders list 
+- Need Help button
+- Pay online strip
+
+
+### Redirections 
+0. Buy again 
+1. Order detail
+2. Need Help
+
