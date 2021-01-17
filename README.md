@@ -59,7 +59,7 @@
 1. Order detail
 2. Need Help
 
-### F. cancel-order
+## F. Cancel-order
 - Item detail section
 - Reason section
 - Cancel Order action
