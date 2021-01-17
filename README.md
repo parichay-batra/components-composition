@@ -76,3 +76,17 @@
 
 #### Incase no item present,
 -Empty Cart Section
+
+
+### H.Address
+- Contact details section
+- Use current location section
+- Address fields section
+- Don't know pincode
+- Save and continue action
+
+#### Incase edit address
+- Show list of saved addresses
+- Add/Edit address and rules aaround it
+
+
