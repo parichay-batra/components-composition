@@ -89,4 +89,7 @@
 - Show list of saved addresses
 - Add/Edit address and rules aaround it
 
+### Raise ticket
+- Contact us section
+- Reason section and rules around it
 
