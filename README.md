@@ -93,3 +93,10 @@
 - Contact us section
 - Reason section and rules around it
 
+
+# Popups
+- COD Popup
+- OTP Popup
+- Remove Item Popup
+- Contact us(Need help click)
+
