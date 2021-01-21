@@ -95,8 +95,9 @@
 
 
 # Popups
-- COD Popup
+- COD Popup 
 - OTP Popup
 - Remove Item Popup
 - Contact us(Need help click)
+- Offer Applied Successfuly Popup (on Applying coupon)
 
